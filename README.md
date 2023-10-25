@@ -8,3 +8,4 @@ Step 3: Compiling and Deploying the Smart Contract
 Step 4: Building the Frontend
 Step 5: Running the DApp
 Step 6: Deploying the Smart Contract to a Public Testnet
+By the end of this task, we will have a DApp where users can mint cricket collectible NFTs.
